@@ -24,10 +24,12 @@
 - [JavaScript 中的数据类型之引用类型(Reference Values)](https://github.com/felix-cao/Blog/issues/41) #41
 - [浏览器进程、JavaScript单线程](https://github.com/felix-cao/Blog/issues/40) #40
 - [ES5 Object 对象的几个不被熟知的特性](https://github.com/felix-cao/Blog/issues/39) #39
-- [JavaScript 事件循环(Event Loop)](https://github.com/felix-cao/Blog/issues/38) #38
 - [JavaScript 执行机制](https://github.com/felix-cao/Blog/issues/28) #28
 - [JavaScript 的对象创建](https://github.com/felix-cao/Blog/issues/26) #26
 - [JavaScript 的垃圾回收机制](https://github.com/felix-cao/Blog/issues/25) #25
-- [JavaScript 浏览器事件](https://github.com/felix-cao/Blog/issues/22) #22
 - [location.hash 使用说明](https://github.com/felix-cao/Blog/issues/21) #21
-- [JavaScript 事件流](https://github.com/felix-cao/Blog/issues/12) #12
+
+## 事件
+- JavaScript 事件流 [#12](https://github.com/felix-cao/Blog/issues/12)
+- JavaScript 浏览器事件 [#22](https://github.com/felix-cao/Blog/issues/22)
+- JavaScript 事件循环(Event Loop) [#38](https://github.com/felix-cao/Blog/issues/38)
