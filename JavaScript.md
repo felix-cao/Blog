@@ -1,8 +1,8 @@
 - [JavaScript 自由变量](https://github.com/felix-cao/Blog/issues/93) #93
 - [JavaScript 立即执行函数 IIFE](https://github.com/felix-cao/Blog/issues/92) #92
 - [JavaScript 的圆括号运算符和 Void 运算符](https://github.com/felix-cao/Blog/issues/91) #91
-- [JavaScript 之 this 的隐式绑定](https://github.com/felix-cao/Blog/issues/90) #90
-- [JavaScript 之 this 的默认绑定规则](https://github.com/felix-cao/Blog/issues/89) #89
+- JavaScript 之 this 的隐式绑定 [#90](https://github.com/felix-cao/Blog/issues/90)
+- JavaScript 之 this 的默认绑定规则 [#89](https://github.com/felix-cao/Blog/issues/89)
 - JavaScript 中的 this 绑定/指向 [#48](https://github.com/felix-cao/Blog/issues/48)
 - [setTimeout 和 setInterval 的基础](https://github.com/felix-cao/Blog/issues/88) #88
 - [JavaScript 中的逻辑运算](https://github.com/felix-cao/Blog/issues/73) #73
