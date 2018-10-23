@@ -1,12 +1,12 @@
 # JavaScript 深入理解篇
 
 ## 变量
+- JavaScript 是词法作用域(Lexical Scope) [#59](https://github.com/felix-cao/Blog/issues/59)
 - JavaScript 自由变量 [#93](https://github.com/felix-cao/Blog/issues/93)
 - JavaScript 中的 this 绑定/指向 [#48](https://github.com/felix-cao/Blog/issues/48)
 - JavaScript 之 this 的隐式绑定 [#90](https://github.com/felix-cao/Blog/issues/90)
 - JavaScript 之 this 的默认绑定规则 [#89](https://github.com/felix-cao/Blog/issues/89)
 - JavaScript this 绑定之  call/apply/bind 方法 [#45](https://github.com/felix-cao/Blog/issues/45)
-- JavaScript 是词法作用域(Lexical Scope) [#59](https://github.com/felix-cao/Blog/issues/59)
 
 ## 函数
 - JavaScript 立即执行函数 IIFE [#92](https://github.com/felix-cao/Blog/issues/92)
