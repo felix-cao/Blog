@@ -3,6 +3,7 @@
 - [JavaScript 的圆括号运算符和 Void 运算符](https://github.com/felix-cao/Blog/issues/91) #91
 - [JavaScript 之 this 的隐式绑定](https://github.com/felix-cao/Blog/issues/90) #90
 - [JavaScript 之 this 的默认绑定规则](https://github.com/felix-cao/Blog/issues/89) #89
+- JavaScript 中的 this 绑定/指向 [#48](https://github.com/felix-cao/Blog/issues/48)
 - [setTimeout 和 setInterval 的基础](https://github.com/felix-cao/Blog/issues/88) #88
 - [JavaScript 中的逻辑运算](https://github.com/felix-cao/Blog/issues/73) #73
 - [JS中的逻辑运算符和短路表达式](https://github.com/felix-cao/Blog/issues/60) #60
@@ -14,7 +15,6 @@
 - [JavaScript 原型、原型对象、隐式原型](https://github.com/felix-cao/Blog/issues/54) #54
 - [JavaScript 的 constructor属性](https://github.com/felix-cao/Blog/issues/53) #53
 - [JavaScript 的原型链(prototype chain)](https://github.com/felix-cao/Blog/issues/52) #52
-- [JavaScript 中的 this 绑定/指向](https://github.com/felix-cao/Blog/issues/48) #48
 - [JavaScript 的三种函数定义方式](https://github.com/felix-cao/Blog/issues/47) #47
 - [JavaScript 函数的属性和方法](https://github.com/felix-cao/Blog/issues/46) #46
 - [JavaScript 函数的 call/apply/bind 方法](https://github.com/felix-cao/Blog/issues/45) #45
