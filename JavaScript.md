@@ -1,9 +1,9 @@
-JavaScript 自由变量 #93
-JavaScript 立即执行函数 IIFE #92
-JavaScript 的圆括号运算符和 Void 运算符 #91
-JavaScript 之 this 的隐式绑定 #90
-JavaScript 之 this 的默认绑定规则 #89
-setTimeout 和 setInterval 的基础 #88
+- JavaScript 自由变量 #93
+- JavaScript 立即执行函数 IIFE #92
+- JavaScript 的圆括号运算符和 Void 运算符 #91
+- JavaScript 之 this 的隐式绑定 #90
+- JavaScript 之 this 的默认绑定规则 #89
+- setTimeout 和 setInterval 的基础 #88
 JavaScript 中的逻辑运算 #73
 JS中的逻辑运算符和短路表达式 #60
 JavaScript 是词法作用域(Lexical Scope) #59
