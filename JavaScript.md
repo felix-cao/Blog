@@ -1,11 +1,20 @@
 # JavaScript 深入理解篇
 
-- [JavaScript 自由变量](https://github.com/felix-cao/Blog/issues/93) #93
-- [JavaScript 立即执行函数 IIFE](https://github.com/felix-cao/Blog/issues/92) #92
+## 变量
+
+- JavaScript 自由变量 [#93](https://github.com/felix-cao/Blog/issues/93)
 - JavaScript 中的 this 绑定/指向 [#48](https://github.com/felix-cao/Blog/issues/48)
 - JavaScript 之 this 的隐式绑定 [#90](https://github.com/felix-cao/Blog/issues/90)
 - JavaScript 之 this 的默认绑定规则 [#89](https://github.com/felix-cao/Blog/issues/89)
-- [setTimeout 和 setInterval 的基础](https://github.com/felix-cao/Blog/issues/88) #88
+- JavaScript 函数的 call/apply/bind 方法 [#45](https://github.com/felix-cao/Blog/issues/45)
+
+## 函数
+- JavaScript 立即执行函数 IIFE [#92](https://github.com/felix-cao/Blog/issues/92)
+- JavaScript 构造函数(constructor function) [#55](https://github.com/felix-cao/Blog/issues/55)
+- JavaScript 的三种函数定义方式 [#47](https://github.com/felix-cao/Blog/issues/47)
+- JavaScript 函数的属性和方法 [#46](https://github.com/felix-cao/Blog/issues/46)
+
+- JavaScript 中函数的三种角色 [#44](https://github.com/felix-cao/Blog/issues/44)
 
 ## 运算符
 - JavaScript 中的逻辑运算 [#73](https://github.com/felix-cao/Blog/issues/73)
@@ -15,14 +24,10 @@
 - [JavaScript 执行上下文和执行上下文栈(Execution Context Stack简称ECS)](https://github.com/felix-cao/Blog/issues/58) #58
 - [JavaScript 变量对象(Variable Object简称VO)](https://github.com/felix-cao/Blog/issues/57) #57
 - [JavaScript 全局对象(Global Object)](https://github.com/felix-cao/Blog/issues/56) #56
-- [JavaScript 构造函数(constructor function)](https://github.com/felix-cao/Blog/issues/55) #55
+
 - [JavaScript 原型、原型对象、隐式原型](https://github.com/felix-cao/Blog/issues/54) #54
 - [JavaScript 的 constructor属性](https://github.com/felix-cao/Blog/issues/53) #53
 - [JavaScript 的原型链(prototype chain)](https://github.com/felix-cao/Blog/issues/52) #52
-- [JavaScript 的三种函数定义方式](https://github.com/felix-cao/Blog/issues/47) #47
-- [JavaScript 函数的属性和方法](https://github.com/felix-cao/Blog/issues/46) #46
-- [JavaScript 函数的 call/apply/bind 方法](https://github.com/felix-cao/Blog/issues/45) #45
-- [JavaScript 中函数的三种角色](https://github.com/felix-cao/Blog/issues/44) #44
 - [JavaScript 的 Object 对象](https://github.com/felix-cao/Blog/issues/43) #43
 - [JavaScript 中的数据类型之基本数据类型(Primitive Values)](https://github.com/felix-cao/Blog/issues/42) #42
 - [JavaScript 中的数据类型之引用类型(Reference Values)](https://github.com/felix-cao/Blog/issues/41) #41
@@ -37,3 +42,4 @@
 - JavaScript 事件流 [#12](https://github.com/felix-cao/Blog/issues/12)
 - JavaScript 浏览器事件 [#22](https://github.com/felix-cao/Blog/issues/22)
 - JavaScript 事件循环(Event Loop) [#38](https://github.com/felix-cao/Blog/issues/38)
+- setTimeout 和 setInterval 的基础 [#88](https://github.com/felix-cao/Blog/issues/88)
