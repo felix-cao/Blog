@@ -5,7 +5,8 @@
 - JavaScript 中的 this 绑定/指向 [#48](https://github.com/felix-cao/Blog/issues/48)
 - JavaScript 之 this 的隐式绑定 [#90](https://github.com/felix-cao/Blog/issues/90)
 - JavaScript 之 this 的默认绑定规则 [#89](https://github.com/felix-cao/Blog/issues/89)
-- JavaScript 函数的 call/apply/bind 方法 [#45](https://github.com/felix-cao/Blog/issues/45)
+- JavaScript this 绑定之  call/apply/bind 方法 [#45](https://github.com/felix-cao/Blog/issues/45)
+- JavaScript 是词法作用域(Lexical Scope) [#59](https://github.com/felix-cao/Blog/issues/59)
 
 ## 函数
 - JavaScript 立即执行函数 IIFE [#92](https://github.com/felix-cao/Blog/issues/92)
@@ -18,7 +19,6 @@
 - JavaScript 中的逻辑运算 [#73](https://github.com/felix-cao/Blog/issues/73)
 - JS中的逻辑运算符和短路表达式 [#60](https://github.com/felix-cao/Blog/issues/60)
 - JavaScript 的圆括号运算符和 Void 运算符 [#91](https://github.com/felix-cao/Blog/issues/91)
-- [JavaScript 是词法作用域(Lexical Scope)](https://github.com/felix-cao/Blog/issues/59) #59
 - [JavaScript 执行上下文和执行上下文栈(Execution Context Stack简称ECS)](https://github.com/felix-cao/Blog/issues/58) #58
 - [JavaScript 变量对象(Variable Object简称VO)](https://github.com/felix-cao/Blog/issues/57) #57
 - [JavaScript 全局对象(Global Object)](https://github.com/felix-cao/Blog/issues/56) #56
