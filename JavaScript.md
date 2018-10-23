@@ -1,7 +1,6 @@
 # JavaScript 深入理解篇
 
 ## 变量
-
 - JavaScript 自由变量 [#93](https://github.com/felix-cao/Blog/issues/93)
 - JavaScript 中的 this 绑定/指向 [#48](https://github.com/felix-cao/Blog/issues/48)
 - JavaScript 之 this 的隐式绑定 [#90](https://github.com/felix-cao/Blog/issues/90)
@@ -13,7 +12,6 @@
 - JavaScript 构造函数(constructor function) [#55](https://github.com/felix-cao/Blog/issues/55)
 - JavaScript 的三种函数定义方式 [#47](https://github.com/felix-cao/Blog/issues/47)
 - JavaScript 函数的属性和方法 [#46](https://github.com/felix-cao/Blog/issues/46)
-
 - JavaScript 中函数的三种角色 [#44](https://github.com/felix-cao/Blog/issues/44)
 
 ## 运算符
@@ -24,7 +22,6 @@
 - [JavaScript 执行上下文和执行上下文栈(Execution Context Stack简称ECS)](https://github.com/felix-cao/Blog/issues/58) #58
 - [JavaScript 变量对象(Variable Object简称VO)](https://github.com/felix-cao/Blog/issues/57) #57
 - [JavaScript 全局对象(Global Object)](https://github.com/felix-cao/Blog/issues/56) #56
-
 - [JavaScript 原型、原型对象、隐式原型](https://github.com/felix-cao/Blog/issues/54) #54
 - [JavaScript 的 constructor属性](https://github.com/felix-cao/Blog/issues/53) #53
 - [JavaScript 的原型链(prototype chain)](https://github.com/felix-cao/Blog/issues/52) #52
