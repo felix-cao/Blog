@@ -18,6 +18,8 @@
 - JavaScript 函数的属性和方法 [#46](https://github.com/felix-cao/Blog/issues/46)
 - JavaScript 中函数的三种角色 [#44](https://github.com/felix-cao/Blog/issues/44)
 - JavaScript 原型、原型对象、隐式原型 [#54](](https://github.com/felix-cao/Blog/issues/54))
+- JavaScript 的 constructor属性 [#53](https://github.com/felix-cao/Blog/issues/53)
+- JavaScript 的原型链(prototype chain) [#52](https://github.com/felix-cao/Blog/issues/52)
 
 ## 运算符
 - JavaScript 中的逻辑运算 [#73](https://github.com/felix-cao/Blog/issues/73)
@@ -26,8 +28,6 @@
 - [JavaScript 执行上下文和执行上下文栈(Execution Context Stack简称ECS)](https://github.com/felix-cao/Blog/issues/58) #58
 - [JavaScript 变量对象(Variable Object简称VO)](https://github.com/felix-cao/Blog/issues/57) #57
 - [JavaScript 全局对象(Global Object)](https://github.com/felix-cao/Blog/issues/56) #56
-- [JavaScript 的 constructor属性](https://github.com/felix-cao/Blog/issues/53) #53
-- [JavaScript 的原型链(prototype chain)](https://github.com/felix-cao/Blog/issues/52) #52
 - [JavaScript 的 Object 对象](https://github.com/felix-cao/Blog/issues/43) #43
 - [浏览器进程、JavaScript单线程](https://github.com/felix-cao/Blog/issues/40) #40
 - [ES5 Object 对象的几个不被熟知的特性](https://github.com/felix-cao/Blog/issues/39) #39
