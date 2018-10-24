@@ -1,9 +1,11 @@
 # JavaScript 深入理解篇
 
 ## 变量
+- JavaScript 中的数据类型之基本数据类型(Primitive Values) [#42](](https://github.com/felix-cao/Blog/issues/42)
+- JavaScript 中的数据类型之引用类型(Reference Values) [#41](](https://github.com/felix-cao/Blog/issues/41)
+- JavaScript 自由变量 [#93](https://github.com/felix-cao/Blog/issues/93)
 - JavaScript 作用域 [#59](https://github.com/felix-cao/Blog/issues/59)
 - JavaScript 作用域链(Scope Chain) [#95](https://github.com/felix-cao/Blog/issues/95)
-- JavaScript 自由变量 [#93](https://github.com/felix-cao/Blog/issues/93)
 - JavaScript 中的 this 绑定/指向 [#48](https://github.com/felix-cao/Blog/issues/48)
 - JavaScript 之 this 的隐式绑定 [#90](https://github.com/felix-cao/Blog/issues/90)
 - JavaScript 之 this 的默认绑定规则 [#89](https://github.com/felix-cao/Blog/issues/89)
@@ -27,8 +29,6 @@
 - [JavaScript 的 constructor属性](https://github.com/felix-cao/Blog/issues/53) #53
 - [JavaScript 的原型链(prototype chain)](https://github.com/felix-cao/Blog/issues/52) #52
 - [JavaScript 的 Object 对象](https://github.com/felix-cao/Blog/issues/43) #43
-- [JavaScript 中的数据类型之基本数据类型(Primitive Values)](https://github.com/felix-cao/Blog/issues/42) #42
-- [JavaScript 中的数据类型之引用类型(Reference Values)](https://github.com/felix-cao/Blog/issues/41) #41
 - [浏览器进程、JavaScript单线程](https://github.com/felix-cao/Blog/issues/40) #40
 - [ES5 Object 对象的几个不被熟知的特性](https://github.com/felix-cao/Blog/issues/39) #39
 - [JavaScript 执行机制](https://github.com/felix-cao/Blog/issues/28) #28
