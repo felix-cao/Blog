@@ -2,6 +2,7 @@
 
 ## 变量
 - JavaScript 作用域 [#59](https://github.com/felix-cao/Blog/issues/59)
+- JavaScript 作用域链(Scope Chain) [#95](https://github.com/felix-cao/Blog/issues/95)
 - JavaScript 自由变量 [#93](https://github.com/felix-cao/Blog/issues/93)
 - JavaScript 中的 this 绑定/指向 [#48](https://github.com/felix-cao/Blog/issues/48)
 - JavaScript 之 this 的隐式绑定 [#90](https://github.com/felix-cao/Blog/issues/90)
@@ -14,6 +15,7 @@
 - JavaScript 的三种函数定义方式 [#47](https://github.com/felix-cao/Blog/issues/47)
 - JavaScript 函数的属性和方法 [#46](https://github.com/felix-cao/Blog/issues/46)
 - JavaScript 中函数的三种角色 [#44](https://github.com/felix-cao/Blog/issues/44)
+- JavaScript 原型、原型对象、隐式原型 [#54](](https://github.com/felix-cao/Blog/issues/54))
 
 ## 运算符
 - JavaScript 中的逻辑运算 [#73](https://github.com/felix-cao/Blog/issues/73)
@@ -22,7 +24,6 @@
 - [JavaScript 执行上下文和执行上下文栈(Execution Context Stack简称ECS)](https://github.com/felix-cao/Blog/issues/58) #58
 - [JavaScript 变量对象(Variable Object简称VO)](https://github.com/felix-cao/Blog/issues/57) #57
 - [JavaScript 全局对象(Global Object)](https://github.com/felix-cao/Blog/issues/56) #56
-- [JavaScript 原型、原型对象、隐式原型](https://github.com/felix-cao/Blog/issues/54) #54
 - [JavaScript 的 constructor属性](https://github.com/felix-cao/Blog/issues/53) #53
 - [JavaScript 的原型链(prototype chain)](https://github.com/felix-cao/Blog/issues/52) #52
 - [JavaScript 的 Object 对象](https://github.com/felix-cao/Blog/issues/43) #43
@@ -33,10 +34,12 @@
 - [JavaScript 执行机制](https://github.com/felix-cao/Blog/issues/28) #28
 - [JavaScript 的对象创建](https://github.com/felix-cao/Blog/issues/26) #26
 - [JavaScript 的垃圾回收机制](https://github.com/felix-cao/Blog/issues/25) #25
-- [location.hash 使用说明](https://github.com/felix-cao/Blog/issues/21) #21
 
 ## 事件
 - JavaScript 事件流 [#12](https://github.com/felix-cao/Blog/issues/12)
 - JavaScript 浏览器事件 [#22](https://github.com/felix-cao/Blog/issues/22)
 - JavaScript 事件循环(Event Loop) [#38](https://github.com/felix-cao/Blog/issues/38)
 - setTimeout 和 setInterval 的基础 [#88](https://github.com/felix-cao/Blog/issues/88)
+
+## 其他
+- location.hash 使用说明 [#21](](https://github.com/felix-cao/Blog/issues/21)
