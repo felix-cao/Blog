@@ -1,8 +1,8 @@
 # JavaScript 深入理解篇
 
 ## 变量
-- JavaScript 中的数据类型之基本数据类型(Primitive Values) [#42](](https://github.com/felix-cao/Blog/issues/42)
-- JavaScript 中的数据类型之引用类型(Reference Values) [#41](](https://github.com/felix-cao/Blog/issues/41)
+- JavaScript 的基本数据类型(Primitive Values) [#42](https://github.com/felix-cao/Blog/issues/42)
+- JavaScript 的引用类型(Reference Values) [#41](https://github.com/felix-cao/Blog/issues/41)
 - JavaScript 自由变量 [#93](https://github.com/felix-cao/Blog/issues/93)
 - JavaScript 作用域 [#59](https://github.com/felix-cao/Blog/issues/59)
 - JavaScript 作用域链(Scope Chain) [#95](https://github.com/felix-cao/Blog/issues/95)
