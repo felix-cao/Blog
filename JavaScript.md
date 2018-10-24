@@ -25,15 +25,15 @@
 - JavaScript 中的逻辑运算 [#73](https://github.com/felix-cao/Blog/issues/73)
 - JS中的逻辑运算符和短路表达式 [#60](https://github.com/felix-cao/Blog/issues/60)
 - JavaScript 的圆括号运算符和 Void 运算符 [#91](https://github.com/felix-cao/Blog/issues/91)
-- [JavaScript 执行上下文和执行上下文栈(Execution Context Stack简称ECS)](https://github.com/felix-cao/Blog/issues/58) #58
-- [JavaScript 变量对象(Variable Object简称VO)](https://github.com/felix-cao/Blog/issues/57) #57
+- JavaScript 执行上下文和执行上下文栈(Execution Context Stack) [#58](https://github.com/felix-cao/Blog/issues/58)
+- JavaScript 变量对象(Variable Object简称VO) [#57](https://github.com/felix-cao/Blog/issues/57)
 - [JavaScript 全局对象(Global Object)](https://github.com/felix-cao/Blog/issues/56) #56
 - [JavaScript 的 Object 对象](https://github.com/felix-cao/Blog/issues/43) #43
 - [浏览器进程、JavaScript单线程](https://github.com/felix-cao/Blog/issues/40) #40
 - [ES5 Object 对象的几个不被熟知的特性](https://github.com/felix-cao/Blog/issues/39) #39
 - [JavaScript 执行机制](https://github.com/felix-cao/Blog/issues/28) #28
 - [JavaScript 的对象创建](https://github.com/felix-cao/Blog/issues/26) #26
-- [JavaScript 的垃圾回收机制](https://github.com/felix-cao/Blog/issues/25) #25
+- JavaScript 的垃圾回收机制 [#25](https://github.com/felix-cao/Blog/issues/25)
 
 ## 事件
 - JavaScript 事件流 [#12](https://github.com/felix-cao/Blog/issues/12)
