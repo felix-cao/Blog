@@ -44,7 +44,7 @@
 - JavaScript 之 setTimeout 深入理解 [#88](https://github.com/felix-cao/Blog/issues/88)
 
 ## 其他
-- location.hash 使用说明 [#21](](https://github.com/felix-cao/Blog/issues/21)
+- location.hash 使用说明 [#21](https://github.com/felix-cao/Blog/issues/21)
 
 ## 面试题
 - 一道有趣的面试题(setTimeout in for loop) [#94](https://github.com/felix-cao/Blog/issues/94)
