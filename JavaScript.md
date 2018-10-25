@@ -34,9 +34,7 @@
 - JavaScript 中的逻辑运算 [#73](https://github.com/felix-cao/Blog/issues/73)
 - JS中的逻辑运算符和短路表达式 [#60](https://github.com/felix-cao/Blog/issues/60)
 - JavaScript 的圆括号运算符和 Void 运算符 [#91](https://github.com/felix-cao/Blog/issues/91)
-- [浏览器进程、JavaScript单线程](https://github.com/felix-cao/Blog/issues/40) #40
-- [JavaScript 执行机制](https://github.com/felix-cao/Blog/issues/28) #28
-- JavaScript 的垃圾回收机制 [#25](https://github.com/felix-cao/Blog/issues/25)
+
 
 ## 事件
 - JavaScript 事件流 [#12](https://github.com/felix-cao/Blog/issues/12)
@@ -46,6 +44,9 @@
 
 ## 其他
 - location.hash 使用说明 [#21](https://github.com/felix-cao/Blog/issues/21)
+- 浏览器进程、JavaScript单线程 [#40](https://github.com/felix-cao/Blog/issues/40)
+- JavaScript 执行机制 [#28](https://github.com/felix-cao/Blog/issues/28)
+- JavaScript 的垃圾回收机制 [#25](https://github.com/felix-cao/Blog/issues/25)
 
 ## 面试题
 - 一道有趣的面试题(setTimeout in for loop) [#94](https://github.com/felix-cao/Blog/issues/94)
