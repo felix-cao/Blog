@@ -20,14 +20,15 @@
 - ES5 Object 对象的几个不被熟知的特性 [#39](https://github.com/felix-cao/Blog/issues/39)
 
 ## 函数
-- JavaScript 立即执行函数 IIFE [#92](https://github.com/felix-cao/Blog/issues/92)
-- JavaScript 构造函数(constructor function) [#55](https://github.com/felix-cao/Blog/issues/55)
 - JavaScript 的三种函数定义方式 [#47](https://github.com/felix-cao/Blog/issues/47)
 - JavaScript 函数的属性和方法 [#46](https://github.com/felix-cao/Blog/issues/46)
-- JavaScript 中函数的三种角色 [#44](https://github.com/felix-cao/Blog/issues/44)
-- JavaScript 原型、原型对象、隐式原型 [#54](https://github.com/felix-cao/Blog/issues/54)
 - JavaScript 的 constructor属性 [#53](https://github.com/felix-cao/Blog/issues/53)
+- JavaScript 中函数的三种角色 [#44](https://github.com/felix-cao/Blog/issues/44)
+- JavaScript 构造函数(constructor function) [#55](https://github.com/felix-cao/Blog/issues/55)
+- JavaScript 原型、原型对象、隐式原型 [#54](https://github.com/felix-cao/Blog/issues/54)
 - JavaScript 的原型链(prototype chain) [#52](https://github.com/felix-cao/Blog/issues/52)
+- JavaScript 闭包(closure) [#96](https://github.com/felix-cao/Blog/issues/96)
+- JavaScript 立即执行函数 IIFE [#92](https://github.com/felix-cao/Blog/issues/92)
 
 ## 运算符
 - JavaScript 中的逻辑运算 [#73](https://github.com/felix-cao/Blog/issues/73)
