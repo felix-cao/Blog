@@ -11,6 +11,12 @@
 - JavaScript 之 this 的默认绑定规则 [#89](https://github.com/felix-cao/Blog/issues/89)
 - JavaScript this 绑定之  call/apply/bind 方法 [#45](https://github.com/felix-cao/Blog/issues/45)
 
+## 对象
+- JavaScript 全局对象(Global Object) [#56](https://github.com/felix-cao/Blog/issues/56)
+- JavaScript 的 Object 对象 [#43](https://github.com/felix-cao/Blog/issues/43)
+- JavaScript 的对象创建 [#26](https://github.com/felix-cao/Blog/issues/26)
+- ES5 Object 对象的几个不被熟知的特性 [#39](https://github.com/felix-cao/Blog/issues/39)
+
 ## 函数
 - JavaScript 立即执行函数 IIFE [#92](https://github.com/felix-cao/Blog/issues/92)
 - JavaScript 构造函数(constructor function) [#55](https://github.com/felix-cao/Blog/issues/55)
@@ -27,12 +33,8 @@
 - JavaScript 的圆括号运算符和 Void 运算符 [#91](https://github.com/felix-cao/Blog/issues/91)
 - JavaScript 执行上下文和执行上下文栈(Execution Context Stack) [#58](https://github.com/felix-cao/Blog/issues/58)
 - JavaScript 变量对象(Variable Object简称VO) [#57](https://github.com/felix-cao/Blog/issues/57)
-- [JavaScript 全局对象(Global Object)](https://github.com/felix-cao/Blog/issues/56) #56
-- [JavaScript 的 Object 对象](https://github.com/felix-cao/Blog/issues/43) #43
 - [浏览器进程、JavaScript单线程](https://github.com/felix-cao/Blog/issues/40) #40
-- [ES5 Object 对象的几个不被熟知的特性](https://github.com/felix-cao/Blog/issues/39) #39
 - [JavaScript 执行机制](https://github.com/felix-cao/Blog/issues/28) #28
-- [JavaScript 的对象创建](https://github.com/felix-cao/Blog/issues/26) #26
 - JavaScript 的垃圾回收机制 [#25](https://github.com/felix-cao/Blog/issues/25)
 
 ## 事件
