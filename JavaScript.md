@@ -41,7 +41,7 @@
 - JavaScript 事件流 [#12](https://github.com/felix-cao/Blog/issues/12)
 - JavaScript 浏览器事件 [#22](https://github.com/felix-cao/Blog/issues/22)
 - JavaScript 事件循环(Event Loop) [#38](https://github.com/felix-cao/Blog/issues/38)
-- setTimeout 和 setInterval 的基础 [#88](https://github.com/felix-cao/Blog/issues/88)
+- JavaScript 之 setTimeout 深入理解 [#88](https://github.com/felix-cao/Blog/issues/88)
 
 ## 其他
 - location.hash 使用说明 [#21](](https://github.com/felix-cao/Blog/issues/21)
