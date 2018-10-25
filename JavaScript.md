@@ -6,6 +6,8 @@
 - JavaScript 自由变量(free variable) [#93](https://github.com/felix-cao/Blog/issues/93)
 - JavaScript 作用域 [#59](https://github.com/felix-cao/Blog/issues/59)
 - JavaScript 作用域链(Scope Chain) [#95](https://github.com/felix-cao/Blog/issues/95)
+- JavaScript 执行上下文和执行上下文栈(Execution Context Stack) [#58](https://github.com/felix-cao/Blog/issues/58)
+- JavaScript 变量对象(Variable Object简称VO) [#57](https://github.com/felix-cao/Blog/issues/57)
 - JavaScript 中的 this 绑定/指向 [#48](https://github.com/felix-cao/Blog/issues/48)
 - JavaScript 之 this 的隐式绑定 [#90](https://github.com/felix-cao/Blog/issues/90)
 - JavaScript 之 this 的默认绑定规则 [#89](https://github.com/felix-cao/Blog/issues/89)
@@ -31,8 +33,6 @@
 - JavaScript 中的逻辑运算 [#73](https://github.com/felix-cao/Blog/issues/73)
 - JS中的逻辑运算符和短路表达式 [#60](https://github.com/felix-cao/Blog/issues/60)
 - JavaScript 的圆括号运算符和 Void 运算符 [#91](https://github.com/felix-cao/Blog/issues/91)
-- JavaScript 执行上下文和执行上下文栈(Execution Context Stack) [#58](https://github.com/felix-cao/Blog/issues/58)
-- JavaScript 变量对象(Variable Object简称VO) [#57](https://github.com/felix-cao/Blog/issues/57)
 - [浏览器进程、JavaScript单线程](https://github.com/felix-cao/Blog/issues/40) #40
 - [JavaScript 执行机制](https://github.com/felix-cao/Blog/issues/28) #28
 - JavaScript 的垃圾回收机制 [#25](https://github.com/felix-cao/Blog/issues/25)
