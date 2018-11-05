@@ -1,5 +1,5 @@
-001. React Native教程入门---Create React Native App [#2](https://github.com/felix-cao/Blog/issues/2)
-002. React Native 入门 ---为 CRNA 加入TypeScript [#3](https://github.com/felix-cao/Blog/issues/3)
+001.React Native教程入门---Create React Native App [#2](https://github.com/felix-cao/Blog/issues/2)
+002.React Native 入门 ---为 CRNA 加入TypeScript [#3](https://github.com/felix-cao/Blog/issues/3)
 React Native 教程入门 --- Expo 命令行工具的使用 [#82](https://github.com/felix-cao/Blog/issues/82)
 如何用 Xcode 编译调试 React Native 项目 [#83](https://github.com/felix-cao/Blog/issues/83)
 React Native App 打包发布 [#85](https://github.com/felix-cao/Blog/issues/85)
