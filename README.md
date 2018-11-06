@@ -12,3 +12,4 @@
 
 - [JavaScript 深入理解篇](https://github.com/felix-cao/Blog/blob/master/JavaScript.md)
 - [React Native 入门教程 writing](https://github.com/felix-cao/Blog/blob/master/react-native-tutorial.md)
+- [Front End Architecture 前端架构](https://github.com/felix-cao/Blog/blob/master/react-native-tutorial.md)
