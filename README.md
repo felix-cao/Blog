@@ -8,7 +8,7 @@
     - 2010.12 ~ 2014.02 | 合肥一飞 | WEB Executive Director
     - 2008.02 ~ 2010.11 | 广州要玩游戏 | WEB Engineer(Focus on front end)
 
-## 快速定位
+## Table of contents
 
 - [JavaScript 深入理解篇](https://github.com/felix-cao/Blog/blob/master/JavaScript.md)
 - [React Native 入门教程 writing](https://github.com/felix-cao/Blog/blob/master/react-native-tutorial.md)
