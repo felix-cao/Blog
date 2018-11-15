@@ -30,6 +30,7 @@
 - JavaScript 闭包(closure) [#96](https://github.com/felix-cao/Blog/issues/96)
 - JavaScript 立即执行函数 IIFE [#92](https://github.com/felix-cao/Blog/issues/92)
 - JavaScript 高阶函数(Higher-order function) [#110](https://github.com/felix-cao/Blog/issues/110)
+- JavaScript 的函数柯里化(currying) [#116](https://github.com/felix-cao/Blog/issues/116)
 
 ## 运算符
 - JavaScript 中的逻辑运算 [#73](https://github.com/felix-cao/Blog/issues/73)
