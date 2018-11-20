@@ -1,5 +1,5 @@
-- 001.React Native 入门 --- Expo 构建 React Native APP [#2](https://github.com/felix-cao/Blog/issues/2)
-- 002.React Native 入门 --- 使用 TypeScript 及 tslint [#3](https://github.com/felix-cao/Blog/issues/3)
+- React Native 入门 --- Expo 构建 React Native APP [#2](https://github.com/felix-cao/Blog/issues/2)
+- React Native 入门 --- 使用 TypeScript 及 tslint [#3](https://github.com/felix-cao/Blog/issues/3)
 - React Native 入门 --- Expo 命令行工具的使用 [#82](https://github.com/felix-cao/Blog/issues/82)
 - React Native 入门 --- Text 组件和 Image 组件 [#115](https://github.com/felix-cao/Blog/issues/115)
 - React Native 入门 --- 如何用 Xcode 编译调试 [#83](https://github.com/felix-cao/Blog/issues/83)
