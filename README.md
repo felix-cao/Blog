@@ -1,7 +1,7 @@
 # This is my Blog
 
 ## Profile
-- Name: Felix Cao
+- Full Name: Felix Cao
 - Work experience:
     - 2016.03 ~ 2018.06 | CISCO | Full stack Engineer
 
