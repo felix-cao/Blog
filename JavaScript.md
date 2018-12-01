@@ -34,7 +34,7 @@
 
 ## 运算符
 - JavaScript 中的逻辑运算 [#73](https://github.com/felix-cao/Blog/issues/73)
-- JS中的逻辑运算符和短路表达式 [#60](https://github.com/felix-cao/Blog/issues/60)
+- JavaScript 中的逻辑运算符和短路表达式 [#60](https://github.com/felix-cao/Blog/issues/60)
 - JavaScript 的圆括号运算符和 Void 运算符 [#91](https://github.com/felix-cao/Blog/issues/91)
 
 
