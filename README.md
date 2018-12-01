@@ -1,9 +1,12 @@
 # This is my Blog
 
-May be I will be a teacher! So I‘m writing and will be more
+May be I will be a teacher! So I‘m writing and more!
+
+If you have any question, you can reach out to me(491766244@qq.com)!
 
 ## Profile
 - Full Name: Felix Cao
+- QQ: 491766244
 - Work Experience:
     - 2016.03 ~ 2018.06 | CISCO | Engineer
 
