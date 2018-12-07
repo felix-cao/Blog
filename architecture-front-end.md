@@ -6,6 +6,6 @@
 - Webpack 入门四：loader 使用 [#34](https://github.com/felix-cao/Blog/issues/34)
 - Webpack 入门五：配置文件 [#33](https://github.com/felix-cao/Blog/issues/33)
 - Webpack 入门六：插件(Plugins)及 hash comments: true [#32](https://github.com/felix-cao/Blog/issues/32)
-- Webpack 入门七：开发环境 [#31](https://github.com/felix-cao/Blog/issues/31)
+- Webpack 入门七：本地开发服务器 [#31](https://github.com/felix-cao/Blog/issues/31)
 - Webpack 入门八：使用 TypeScript [#30](https://github.com/felix-cao/Blog/issues/30)
 - Webpack 入门九：使用 SCSS [#29](https://github.com/felix-cao/Blog/issues/29)
