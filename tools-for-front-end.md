@@ -14,5 +14,10 @@ https://snack.expo.io/
 - Webpack 入门九：使用 SCSS [#29](https://github.com/felix-cao/Blog/issues/29)
 
 ## Chrome 调试工具
-- 有位大神 Tomek Sułkowski 在 [medium](https://medium.com/@tomsu) 写了几篇 `Chrome` 的 `Devtools` 还是非常棒的，`当然需要翻墙`
+有位大神 Tomek Sułkowski 在 [medium](https://medium.com/@tomsu) 写了几篇 `Chrome` 的 `Devtools` 还是非常棒的，`当然需要翻墙`
+- [DevTools tips — day 5: the curious case of console.log](https://medium.com/@tomsu/devtools-tips-day-5-the-curious-case-of-console-log-36bc7e27a97f)
+- [DevTools tips — day 6: the Command Menu](https://medium.com/@tomsu/devtools-tips-day-6-thecommand-menu-449eb3966d9)
+- [DevTools tips — day 7: the simple joys of async console](https://medium.com/@tomsu/devtools-tips-day-7-the-simple-joys-of-async-console-578f4ce67df4)
+- [DevTools tips — day 8: Color picker](https://medium.com/@tomsu/devtools-tips-day-8-color-picker-827f1692bfab)
+- [DevTools tips — day 9: timing the console](https://medium.com/@tomsu/devtools-tips-day-8-timing-the-console-19c7bef9325d)
 - [Console Importer](https://github.com/pd4d10/console-importer) Easily import JS and CSS resources from Chrome console
