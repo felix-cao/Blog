@@ -14,5 +14,5 @@ https://snack.expo.io/
 - Webpack 入门九：使用 SCSS [#29](https://github.com/felix-cao/Blog/issues/29)
 
 ## Chrome 调试工具
-- 有位大神 Tomek Sułkowski 在 [medium](https://medium.com/@tomsu) 写了几篇 `Chrome` 的 `Devtools` 还是非常棒的
+- 有位大神 Tomek Sułkowski 在 [medium](https://medium.com/@tomsu) 写了几篇 `Chrome` 的 `Devtools` 还是非常棒的，`当然需要翻墙`
 - [Console Importer](https://github.com/pd4d10/console-importer) Easily import JS and CSS resources from Chrome console
