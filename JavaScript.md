@@ -25,7 +25,7 @@
 - JavaScript 的 constructor属性 [#53](https://github.com/felix-cao/Blog/issues/53)
 - JavaScript 中函数的三种角色 [#44](https://github.com/felix-cao/Blog/issues/44)
 - JavaScript 构造器 [#55](https://github.com/felix-cao/Blog/issues/55)
-- JavaScript 原型、原型对象、隐式原型 [#54](https://github.com/felix-cao/Blog/issues/54)
+- JavaScript 原型及原型对象 [#54](https://github.com/felix-cao/Blog/issues/54)
 - JavaScript 的原型链(prototype chain) [#52](https://github.com/felix-cao/Blog/issues/52)
 - JavaScript 闭包(closure) [#96](https://github.com/felix-cao/Blog/issues/96)
 - JavaScript 立即执行函数 IIFE [#92](https://github.com/felix-cao/Blog/issues/92)
