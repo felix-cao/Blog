@@ -53,5 +53,5 @@
 - localStorage 使用总结 [#117](https://github.com/felix-cao/Blog/issues/117)
 - JavaScript 正则表达式 [#123](https://github.com/felix-cao/Blog/issues/123)
 
-## 面试题
+## 试题
 - 一道有趣的面试题(setTimeout in for loop) [#94](https://github.com/felix-cao/Blog/issues/94)
