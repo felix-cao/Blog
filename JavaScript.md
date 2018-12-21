@@ -14,6 +14,7 @@
 - JavaScript this 绑定之  call/apply/bind 方法 [#45](https://github.com/felix-cao/Blog/issues/45)
 
 ## 对象
+- JavaScript 基于原型继承的对象系统 [#131](https://github.com/felix-cao/Blog/issues/131)
 - JavaScript 全局对象(Global Object) [#56](https://github.com/felix-cao/Blog/issues/56)
 - JavaScript 的 Object 对象 [#43](https://github.com/felix-cao/Blog/issues/43)
 - JavaScript 的对象创建 [#26](https://github.com/felix-cao/Blog/issues/26)
