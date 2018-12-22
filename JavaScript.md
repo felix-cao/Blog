@@ -8,7 +8,7 @@
 - JavaScript 作用域链(Scope Chain) [#95](https://github.com/felix-cao/Blog/issues/95)
 - JavaScript 执行上下文和执行上下文栈(Execution Context Stack) [#58](https://github.com/felix-cao/Blog/issues/58)
 - JavaScript 变量对象(Variable Object简称VO) [#57](https://github.com/felix-cao/Blog/issues/57)
-- JavaScript 中的 this 绑定/指向 [#48](https://github.com/felix-cao/Blog/issues/48)
+- JavaScript 之 this 绑定/指向 [#48](https://github.com/felix-cao/Blog/issues/48)
 - JavaScript 之 this 的隐式绑定 [#90](https://github.com/felix-cao/Blog/issues/90)
 - JavaScript 之 this 的默认绑定规则 [#89](https://github.com/felix-cao/Blog/issues/89)
 
