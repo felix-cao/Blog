@@ -1,5 +1,7 @@
 # JavaScript 深入理解篇
 
+这里系列文章是我工作多年以来的积累，无转载说明的都是原创，大部分都是原创，转载请注明出处！
+
 ## 变量
 - JavaScript 基本数据类型(Primitive Values) [#42](https://github.com/felix-cao/Blog/issues/42)
 - JavaScript 引用类型(Reference Values) [#41](https://github.com/felix-cao/Blog/issues/41)
