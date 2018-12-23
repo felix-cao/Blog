@@ -1,8 +1,8 @@
 # JavaScript 深入理解篇
 
 ## 变量
-- JavaScript 的基本数据类型(Primitive Values) [#42](https://github.com/felix-cao/Blog/issues/42)
-- JavaScript 的引用类型(Reference Values) [#41](https://github.com/felix-cao/Blog/issues/41)
+- JavaScript 基本数据类型(Primitive Values) [#42](https://github.com/felix-cao/Blog/issues/42)
+- JavaScript 引用类型(Reference Values) [#41](https://github.com/felix-cao/Blog/issues/41)
 - JavaScript 自由变量(free variable) [#93](https://github.com/felix-cao/Blog/issues/93)
 - JavaScript 作用域 [#59](https://github.com/felix-cao/Blog/issues/59)
 - JavaScript 作用域链(Scope Chain) [#95](https://github.com/felix-cao/Blog/issues/95)
@@ -26,12 +26,12 @@
 - JavaScript 函数的三种角色 [#44](https://github.com/felix-cao/Blog/issues/44)
 - JavaScript 构造器 [#55](https://github.com/felix-cao/Blog/issues/55)
 - JavaScript 原型及原型对象 [#54](https://github.com/felix-cao/Blog/issues/54)
-- JavaScript 的原型链(prototype chain) [#52](https://github.com/felix-cao/Blog/issues/52)
+- JavaScript 原型链(prototype chain) [#52](https://github.com/felix-cao/Blog/issues/52)
 - JavaScript 函数的 call/apply/bind 方法 [#45](https://github.com/felix-cao/Blog/issues/45)
 - JavaScript 闭包(closure) [#96](https://github.com/felix-cao/Blog/issues/96)
 - JavaScript 立即执行函数 IIFE [#92](https://github.com/felix-cao/Blog/issues/92)
 - JavaScript 高阶函数(Higher-order function) [#110](https://github.com/felix-cao/Blog/issues/110)
-- JavaScript 的函数柯里化(currying) [#116](https://github.com/felix-cao/Blog/issues/116)
+- JavaScript 函数柯里化(currying) [#116](https://github.com/felix-cao/Blog/issues/116)
 
 ## 运算符
 - JavaScript 中的逻辑运算 [#73](https://github.com/felix-cao/Blog/issues/73)
