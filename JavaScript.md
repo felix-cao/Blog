@@ -27,7 +27,7 @@
 - JavaScript 构造器 [#55](https://github.com/felix-cao/Blog/issues/55)
 - JavaScript 原型及原型对象 [#54](https://github.com/felix-cao/Blog/issues/54)
 - JavaScript 的原型链(prototype chain) [#52](https://github.com/felix-cao/Blog/issues/52)
-- JavaScript 函数自带的 call/apply/bind 方法 [#45](https://github.com/felix-cao/Blog/issues/45)
+- JavaScript 函数的 call/apply/bind 方法 [#45](https://github.com/felix-cao/Blog/issues/45)
 - JavaScript 闭包(closure) [#96](https://github.com/felix-cao/Blog/issues/96)
 - JavaScript 立即执行函数 IIFE [#92](https://github.com/felix-cao/Blog/issues/92)
 - JavaScript 高阶函数(Higher-order function) [#110](https://github.com/felix-cao/Blog/issues/110)
