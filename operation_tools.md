@@ -4,3 +4,4 @@
 - telnet
 - Termius
 - [MobaXterm](https://mobaxterm.mobatek.net/)
+- [Terminus](https://github.com/eugeny/terminus)
