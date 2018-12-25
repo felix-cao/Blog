@@ -45,7 +45,7 @@
 - JavaScript 事件流 [#12](https://github.com/felix-cao/Blog/issues/12)
 - JavaScript 浏览器事件 [#22](https://github.com/felix-cao/Blog/issues/22)
 - JavaScript 事件循环(Event Loop) [#38](https://github.com/felix-cao/Blog/issues/38)
-- JavaScript 事件委托/代理 [#133](https://github.com/felix-cao/Blog/issues/133)
+- JavaScript 事件委托/代理(Event Delegation) [#133](https://github.com/felix-cao/Blog/issues/133)
 - JavaScript 之 setTimeout 深入理解 [#88](https://github.com/felix-cao/Blog/issues/88)
 
 ## 其他
