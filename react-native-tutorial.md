@@ -6,3 +6,6 @@
 - React Native 入门 --- 如何用 Xcode 编译调试 [#83](https://github.com/felix-cao/Blog/issues/83)
 - React Native 入门 --- 打包发布 [#85](https://github.com/felix-cao/Blog/issues/85)
 - React Native 入门 --- React Navigation 介绍 [#118](https://github.com/felix-cao/Blog/issues/118)
+
+
+- React Native 集成友盟社会化分享 SDK --- Android [#132](https://github.com/felix-cao/Blog/issues/132)
