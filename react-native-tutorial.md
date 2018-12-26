@@ -1,4 +1,4 @@
-# I'm writing for this topic
+# I'm writing for this topic.
 
 ## React Native 入门教程
 - Window 系统下，React Native 开发环境搭建 [#122](https://github.com/felix-cao/Blog/issues/122)
