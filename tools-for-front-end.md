@@ -4,6 +4,10 @@
 
 # 前端工具
 
+## IDE
+- [VSCode](https://code.visualstudio.com/)
+- [Sublime Text](http://www.sublimetext.com/)
+
 ## 两款非常棒的正则表达式在线测试工具
 - https://regex101.com/
 - https://regexper.com/
