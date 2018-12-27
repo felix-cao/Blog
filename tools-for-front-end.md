@@ -6,6 +6,7 @@
 
 ## IDE
 - [VSCode](https://code.visualstudio.com/)
+  - Mac 使用 `code` 命令打开 `VSCode`: VSCode -> command + shift + p 输入 shell command -> Shell Command: Install `code` command in PATH
 - [Sublime Text](http://www.sublimetext.com/)
 
 ## 两款非常棒的正则表达式在线测试工具
