@@ -12,6 +12,7 @@
 - Webpack 入门九：使用 SCSS [#29](https://github.com/felix-cao/Blog/issues/29)
 
 ### 其他
+- 前端性能优化总结 [#134](https://github.com/felix-cao/Blog/issues/134)
 - [浏览器工作原理详解](https://blog.csdn.net/u010794365/article/details/77982768)
 - DOM 是 javaScript 与 HTML 页面进行对话的接口 [#125](https://github.com/felix-cao/Blog/issues/125)
 - [JavaScript Standard Style ](https://github.com/standard/standard)
