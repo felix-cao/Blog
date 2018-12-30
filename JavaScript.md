@@ -35,6 +35,7 @@
 - JavaScript 高阶函数(Higher-order function) [#110](https://github.com/felix-cao/Blog/issues/110)
 - JavaScript 函数柯里化(currying) [#116](https://github.com/felix-cao/Blog/issues/116)
 - JavaScript 的面向切面编程 [#135](https://github.com/felix-cao/Blog/issues/135)
+- JavaScript 防抖动(debounce)与节流(throttle) [#137](https://github.com/felix-cao/Blog/issues/137)
 
 ## 运算符
 - JavaScript 中的逻辑运算 [#73](https://github.com/felix-cao/Blog/issues/73)
