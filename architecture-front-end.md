@@ -15,4 +15,7 @@
 - 前端性能优化总结 [#134](https://github.com/felix-cao/Blog/issues/134)
 - [浏览器工作原理详解](https://blog.csdn.net/u010794365/article/details/77982768)
 - DOM 是 javaScript 与 HTML 页面进行对话的接口 [#125](https://github.com/felix-cao/Blog/issues/125)
+### JavaScript Standard Style
 - [JavaScript Standard Style ](https://github.com/standard/standard)
+   the most popular JavaScript style guides on the internet. It covers nearly every aspect of JavaScript as well.
+- [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
