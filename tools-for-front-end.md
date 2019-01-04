@@ -40,4 +40,4 @@
 
 ## Project Manage
 - [Trello](https://trello.com/)
-  [Gradle Scrum Board](https://trello.com/b/oJn8cmj7/gradle-user-guide)
+  <br/>[Gradle Scrum Board](https://trello.com/b/oJn8cmj7/gradle-user-guide)
