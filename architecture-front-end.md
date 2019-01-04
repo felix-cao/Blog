@@ -17,6 +17,6 @@
 - DOM 是 javaScript 与 HTML 页面进行对话的接口 [#125](https://github.com/felix-cao/Blog/issues/125)
 ### JavaScript Standard Style
 - [JavaScript Standard Style ](https://github.com/standard/standard)
-   
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
   <br/>The most popular JavaScript style guides on the internet. It covers nearly every aspect of JavaScript as well.
+- [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
