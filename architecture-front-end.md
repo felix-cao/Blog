@@ -19,4 +19,4 @@
 - [JavaScript Standard Style ](https://github.com/standard/standard)
    
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
-  <br/>the most popular JavaScript style guides on the internet. It covers nearly every aspect of JavaScript as well.
+  <br/>The most popular JavaScript style guides on the internet. It covers nearly every aspect of JavaScript as well.
