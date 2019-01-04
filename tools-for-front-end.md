@@ -37,3 +37,7 @@
 - [DevTools tips — day 8: Color picker](https://medium.com/@tomsu/devtools-tips-day-8-color-picker-827f1692bfab)
 - [DevTools tips — day 9: timing the console](https://medium.com/@tomsu/devtools-tips-day-8-timing-the-console-19c7bef9325d)
 - [Console Importer](https://github.com/pd4d10/console-importer) Easily import JS and CSS resources from Chrome console
+
+## Project Manage
+- [Trello](https://trello.com/)
+  [Gradle Scrum Board](https://trello.com/b/oJn8cmj7/gradle-user-guide)
