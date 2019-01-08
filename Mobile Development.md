@@ -6,3 +6,6 @@
 
 ## 抓包工具
 - [抓包工具 Fiddler](https://www.telerik.com/download/fiddler)
+
+## 其他
+[夜神模拟器 配置翻墙](https://www.phpol.cn/qita/403.html)
