@@ -10,7 +10,7 @@
 - React Native 入门 --- 打包发布 [#85](https://github.com/felix-cao/Blog/issues/85)
 - React Native 入门 --- React Navigation 介绍 [#118](https://github.com/felix-cao/Blog/issues/118)
 - React Navigation 的 Screen 切换及路由配置 [#140](https://github.com/felix-cao/Blog/issues/140)
-- React Navigation 参数传递 [#141]((https://github.com/felix-cao/Blog/issues/141)
+- React Navigation 参数传递 [#141](https://github.com/felix-cao/Blog/issues/141)
 
 ## 其他
 
