@@ -8,6 +8,7 @@
 - [VSCode](https://code.visualstudio.com/)
   - Mac 使用 `code` 命令打开 `VSCode`: VSCode -> command + shift + p 输入 shell command -> Shell Command: Install `code` command in PATH
   - 安装插件： command + shift + x,
+  - 快捷键：command + s
   - 几个不错的插件
     - Gitlens
 - [Sublime Text](http://www.sublimetext.com/)
