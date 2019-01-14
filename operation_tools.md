@@ -5,3 +5,4 @@
 - Termius
 - [MobaXterm](https://mobaxterm.mobatek.net/)
 - [Terminus](https://github.com/eugeny/terminus)
+- [git](https://git-scm.com/)
