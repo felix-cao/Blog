@@ -13,6 +13,8 @@
     - Gitlens
 - [Sublime Text](http://www.sublimetext.com/)
 
+- [Typora](https://typora.io/#download), 不错的 markdown 编辑器
+
 ## 两款非常棒的正则表达式在线测试工具
 - https://regex101.com/
 - https://regexper.com/
