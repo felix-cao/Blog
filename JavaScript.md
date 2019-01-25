@@ -13,6 +13,7 @@
 - JavaScript 之 this 绑定/指向 [#48](https://github.com/felix-cao/Blog/issues/48)
 - JavaScript 之 this 丢失 [#90](https://github.com/felix-cao/Blog/issues/90)
 - JavaScript 之 this 的默认绑定规则 [#89](https://github.com/felix-cao/Blog/issues/89)
+- JavaScript Hoisting(提升) [#143](https://github.com/felix-cao/Blog/issues/143)
 
 ## 对象
 - JavaScript 基于原型继承的对象系统 [#131](https://github.com/felix-cao/Blog/issues/131)
