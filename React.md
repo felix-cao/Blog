@@ -1,7 +1,6 @@
 # React tutorial
 
-**A JavaScript library for building user interfaces**<br/>
-一个用来构建用户界面的UI库<br/>
+**A JavaScript library for building user interfaces**  一个用来构建用户界面的UI库<br/>
 [Offical site](https://reactjs.org/)
 
 - React 之 JSX 语法 [#15](https://github.com/felix-cao/Blog/issues/15)
