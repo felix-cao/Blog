@@ -1,5 +1,5 @@
 # 简洁优雅自然可读的ES6
-我用8个字来形容ES6: 简洁优雅、自然可读
+我用8个字来形容 `ES6`: 简洁优雅、自然可读，关于 `ES6` 的课题将陆续整理ing
 
 - ES6 解构赋值之数组解构 [#13](https://github.com/felix-cao/Blog/issues/13)
 - ES6 解构赋值之对象解构 [#14](https://github.com/felix-cao/Blog/issues/14)
