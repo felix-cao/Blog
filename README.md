@@ -20,3 +20,4 @@ If you have any question, you can reach out to me(491766244@qq.com), or you can 
 
 ## 其他
 [《提问的智慧》精读注解版](https://hacpai.com/article/1536377163156)
+[mailinator](https://www.mailinator.com/), 无需账号密码的临时邮箱
