@@ -16,5 +16,4 @@
 ## 其他
 
 - React Native 集成友盟社会化分享 SDK --- Android [#132](https://github.com/felix-cao/Blog/issues/132)
-
-- [react v16.4 之后的生命周期函数](https://blog.bitsrc.io/understanding-react-v16-4-new-component-lifecycle-methods-fa7b224efd7d)
+- React 组件的生命周期函数(Lifecycle Methods) [#147](https://github.com/felix-cao/Blog/issues/147)
