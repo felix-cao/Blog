@@ -2,6 +2,8 @@
 
 转载请注明出处！
 
+`JavaScript` 是一门很神奇迷人的计算机语言，以至于你永远都不知道，自己是不是掌握了这门语言。
+
 ## 变量
 - JavaScript 基本数据类型(Primitive Values) [#42](https://github.com/felix-cao/Blog/issues/42)
 - JavaScript 引用类型(Reference Values) [#41](https://github.com/felix-cao/Blog/issues/41)
