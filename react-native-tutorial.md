@@ -12,6 +12,7 @@
 - React Navigation 的 Screen 切换及路由配置 [#140](https://github.com/felix-cao/Blog/issues/140)
 - React Navigation 参数传递 [#141](https://github.com/felix-cao/Blog/issues/141)
 - React Navigation 配置 header [#142](https://github.com/felix-cao/Blog/issues/142)
+- React Native 与 HTML5 的通信 [#149](https://github.com/felix-cao/Blog/issues/149)
 
 ## 其他
 
