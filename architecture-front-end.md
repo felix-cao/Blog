@@ -5,6 +5,7 @@
 
 ### 1.1、JavaScript
 - [JavaScript 深入理解篇](https://github.com/felix-cao/Blog/blob/master/JavaScript.md)
+- [JavaScript 函数式编程指南](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/)
 - [国外最全的 JavaScript 学习资料](https://javascript.info/)
 
 ### 1.2、JavaScript Standard Style
