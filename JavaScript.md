@@ -23,6 +23,7 @@
 - JavaScript 的 Object 对象 [#43](https://github.com/felix-cao/Blog/issues/43)
 - JavaScript 的对象创建 [#26](https://github.com/felix-cao/Blog/issues/26)
 - ES5 Object 对象的几个不被熟知的特性 [#39](https://github.com/felix-cao/Blog/issues/39)
+- JavaScript 浅拷贝与深拷贝 [#153](https://github.com/felix-cao/Blog/issues/153)
 
 ## 函数
 - JavaScript 为什么说函数是一等公民？ [#150](https://github.com/felix-cao/Blog/issues/150)
