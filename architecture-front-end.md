@@ -15,7 +15,9 @@
 - [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
 
 ### 1.3、框架
+- [lodash](https://lodash.com/docs/)
 - [React Tutorial](https://github.com/felix-cao/Blog/blob/master/React.md)
+- [Vue Document](https://cn.vuejs.org/v2/guide/)
 
 ## 二、工具 
 ### 2.1、Webpack 打包工具
