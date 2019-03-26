@@ -11,6 +11,9 @@
   - Git Bash作为VSCode Terminal: Ctrl+Shift+P --> Select Default Shell --> Select Git Bash
   - 几个不错的插件
     - Gitlens
+    - Auto Rename Tag
+    - Auto Close Tag
+    
 - [Sublime Text](http://www.sublimetext.com/)
 
 - [Typora](https://typora.io/#download), 不错的 markdown 编辑器
