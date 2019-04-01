@@ -23,3 +23,4 @@ If you like, You can `star` this repo to keep tracking!
 ## 其他
 - [《提问的智慧》精读注解版](https://hacpai.com/article/1536377163156)
 - [mailinator](https://www.mailinator.com/), 无需账号密码的临时邮箱
+- [ZOOM 视频会议](https://zoom.us/pricing)
