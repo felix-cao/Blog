@@ -8,3 +8,5 @@
 - [MobaXterm](https://mobaxterm.mobatek.net/)
 - [Terminus](https://github.com/eugeny/terminus)
 - [git](https://git-scm.com/)
+
+- [Kubernetes 教程](https://kuboard.cn/)
