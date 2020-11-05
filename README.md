@@ -20,6 +20,9 @@ If you like, You can `star` this repo to keep tracking!
 - [Front End Architecture 前端架构](https://github.com/felix-cao/Blog/blob/master/architecture-front-end.md)
 - [Java 基础](https://github.com/felix-cao/Blog/blob/master/java.md)
 
+## 算法 Algorithm
+- [算法可视化工具](http://algorithm-visualizer.org)
+
 ## 其他
 - [《提问的智慧》精读注解版](https://hacpai.com/article/1536377163156)
 - [mailinator](https://www.mailinator.com/), 无需账号密码的临时邮箱
