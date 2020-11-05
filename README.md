@@ -11,6 +11,7 @@ If you like, You can `star` this repo to keep tracking!
 - QQ: 491766244
 - Work Experience:
     - 2016.03 ~ 2018.06 | CISCO | Engineer
+    - 2019.12.09 ~ 2020.08.13 | 249 days of terrible 
 
 ## Table of contents
 
