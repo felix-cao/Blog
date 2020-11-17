@@ -20,7 +20,8 @@
 
 - [Nodejs](https://nodejs.org/en/download/)
 - [Nodejs - window 7](https://nodejs.org/en/download/releases/)
-
+- [nvm 管理 Nodejs 版本](https://github.com/nvm-sh/nvm)
+- [nrm 管理 npm 的 registry](https://github.com/Pana/nrm)
 
 ## 两款非常棒的正则表达式在线测试工具
 - https://regex101.com/
