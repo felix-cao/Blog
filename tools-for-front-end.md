@@ -18,6 +18,10 @@
 
 - [Typora](https://typora.io/#download), 不错的 markdown 编辑器
 
+- [Nodejs](https://nodejs.org/en/download/)
+- [Nodejs - window 7](https://nodejs.org/en/download/releases/)
+
+
 ## 两款非常棒的正则表达式在线测试工具
 - https://regex101.com/
 - https://regexper.com/
