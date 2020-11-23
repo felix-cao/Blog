@@ -31,3 +31,4 @@ If you like, You can `star` this repo to keep tracking!
 - [开源公共的 API 合集](https://github.com/toddmotto/public-apis)
 - [壹题汇总](https://github.com/Advanced-Frontend/Daily-Interview-Question)
 - [Lint commit messages](https://github.com/conventional-changelog/commitlint)
+- [GSAP (GreenSock Animation Platform)](https://github.com/greensock/GSAP)
