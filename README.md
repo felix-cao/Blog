@@ -30,3 +30,4 @@ If you like, You can `star` this repo to keep tracking!
 - [ZOOM 视频会议](https://zoom.us/pricing)
 - [开源公共的 API 合集](https://github.com/toddmotto/public-apis)
 - [壹题汇总](https://github.com/Advanced-Frontend/Daily-Interview-Question)
+- [Lint commit messages](https://github.com/conventional-changelog/commitlint)
