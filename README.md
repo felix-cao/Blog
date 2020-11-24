@@ -32,3 +32,4 @@ If you like, You can `star` this repo to keep tracking!
 - [壹题汇总](https://github.com/Advanced-Frontend/Daily-Interview-Question)
 - [Lint commit messages](https://github.com/conventional-changelog/commitlint)
 - [GSAP (GreenSock Animation Platform)](https://github.com/greensock/GSAP)
+- [xgplayer 西瓜开源音视频解决方案](https://github.com/bytedance/xgplayer)
