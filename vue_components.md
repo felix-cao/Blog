@@ -1,0 +1,2 @@
+- [simple-keyboard 模拟键盘组件](https://github.com/hodgef/simple-keyboard)
+- [vue-fullscreen](https://github.com/mirari/vue-fullscreen)
