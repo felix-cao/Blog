@@ -35,3 +35,4 @@ If you like, You can `star` this repo to keep tracking!
 - [xgplayer 西瓜开源音视频解决方案](https://github.com/bytedance/xgplayer)
 - [H5 可视化页面配置解决方案](https://github.com/MrXujiang/h5-Dooring)
 - [Todesk 远程控制桌面工具](https://www.todesk.com/)
+- [语义化版本2.0.0](https://semver.org/lang/zh-CN/)
