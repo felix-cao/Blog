@@ -6,3 +6,4 @@
 # IDE
 - [IntelliJ IDEA 2020.3激活破解教程](https://www.exception.site/essay/how-to-free-use-intellij-idea-2019-3)
 - 使用 sdkman 安装并维护多个版本的 JDK [#120](https://github.com/felix-cao/Blog/issues/120)
+- [IDEA右键新建时，选项竟然没有Java Class](https://www.jianshu.com/p/34cc2537a75b)
