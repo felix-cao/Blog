@@ -1,0 +1,83 @@
+<!-- maven的信息部分 -->
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <!-- 主要定义了xml的版本，编码格式以及project的标签，
+还有modelVwesion，如果是maven2/maven3那么modelVersion的版本一定是4.0.0 -->
+
+    <groupId>demo</groupId>
+    <artifactId>demo</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <!-- groupId / artifactid / version 这三个参数构成了一个maven的坐标，是定位一个maven项目的唯一标识
+version 如果是 SNAPSHOT表示当前版本是一个不稳定的尚在开发中的版本 -->
+
+    <!-- parent这是一个特殊的，他是用来继承/复用
+    如果在每个子模块中都用到了 spring, 那么就不需要每个模块都单独配置
+    一般写在字 pom.xml中
+  -->
+    <parent>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>1.5.9.RELEASE</version>
+    </parent>
+
+<!-- 用来管理同个项目中的各个模块，如果maven用的比较简单，或者在项目中没有划分，就不需要，一般规模比较大的项目才会用到 -->
+    <modules>
+        <module>模块名称</module>
+        <module>模块名称</module>
+    </modules>
+
+
+    <!-- repositories用来定义私有仓库由于maven有自己默认的中央仓库，
+    但是如果我们仅仅使用中央仓库，没有使用自定义的一些jar包，就不需要去定义私有仓库-->
+    <repositories>
+        <!-- 包含需要连接到远程仓库的信息 -->
+        <repository>
+            <!-- id：定义私有仓库的id,远程仓库的唯一标识，可以用来匹配在settings.xml文件里配置的远程仓库
+                 url: 是私有仓库的地址 -->
+            <id>fr-nexus</id>
+            <url>http://nexus.frBlog.com/nexus/content/groups/public/</url>
+            <!-- snapshots：是否允许下载SNAPSHOTS版本，也就是不稳定版本，类似的标签还有releases -->
+            <snapshots>
+                <enabled>true</enabled>
+            </snapshots>
+        </repository>
+
+        <repository>
+            <id>fr-nexus</id>
+            <url>http://nexus.frBlog.com/nexus/content/groups/public/</url>
+            <release>
+                <!-- enabled : true / false 表示该仓库是否为下载某种类型构建（发布版，快照版）开启 -->
+                <enabled>true</enabled>
+
+                <!-- updatePolicy: 该元素指定更新发生的频率，maven会比较本地POM和远程POM的时间戳
+              选项有 always / daily / interval:X 这里的X是以分钟为单位的时间戳 / never  -->
+                <updatePolicy>always</updatePolicy>
+                <!-- checksumPolicy：当maven验证构建验证文件失败是应该怎么做：ignore , fail , warn -->
+                <checksumPolicy>warn</checksumPolicy>
+            </release>
+        </repository>
+    </repositories>
+
+
+    <!-- 项目中用到的依赖 -->
+    <dependencies>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+        </dependency>
+    </dependencies>
+    <!--这个插件，可以将应用进行打包成一个可执行的jar包-->
+    <!-- build 这个标签主要用来添加编译时的插件 -->
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-maven-plugin</artifactId>
+            </plugin>
+        </plugins>
+    </build>
+
+</project>
