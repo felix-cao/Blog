@@ -2,3 +2,6 @@
 
 - Java 之 JRE、JDK、JVM 及环境变量 [#151](https://github.com/felix-cao/Blog/issues/151)
 - 使用 STS 创建 Sprint boot 项目 [#155](https://github.com/felix-cao/Blog/issues/155)
+
+# IDE
+- [IntelliJ IDEA 2020.3激活破解教程](https://www.exception.site/essay/how-to-free-use-intellij-idea-2019-3)
