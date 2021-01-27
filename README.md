@@ -36,3 +36,4 @@ If you like, You can `star` this repo to keep tracking!
 - [H5 可视化页面配置解决方案](https://github.com/MrXujiang/h5-Dooring)
 - [Todesk 远程控制桌面工具](https://www.todesk.com/)
 - [语义化版本2.0.0](https://semver.org/lang/zh-CN/)
+- [Atlassian 破解](https://www.dqzboy.com/atlassian%e5%85%a8%e5%ae%b6%e6%a1%b6%e4%bb%a5%e5%8f%8a%e6%8f%92%e4%bb%b6%e7%a0%b4%e8%a7%a3%e8%af%a6%e7%bb%86%e6%95%99%e7%a8%8b)
