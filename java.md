@@ -10,3 +10,4 @@
 - 使用 sdkman 安装并维护多个版本的 JDK [#120](https://github.com/felix-cao/Blog/issues/120)
 - [IDEA右键新建时，选项竟然没有Java Class](https://www.jianshu.com/p/34cc2537a75b)
 - [Linux 下JDK1.8的安装](https://www.cnblogs.com/chy18883701161/p/12354039.html)
+- [window 下maven的按照](https://blog.csdn.net/a805814077/article/details/100545928)
