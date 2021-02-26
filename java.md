@@ -11,3 +11,4 @@
 - [IDEA右键新建时，选项竟然没有Java Class](https://www.jianshu.com/p/34cc2537a75b)
 - [Linux 下JDK1.8的安装](https://www.cnblogs.com/chy18883701161/p/12354039.html)
 - [window 下maven的按照](https://blog.csdn.net/huo920/article/details/82082403)
+- [Thinsboard 源码部署](https://segmentfault.com/a/1190000019755315)
