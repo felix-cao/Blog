@@ -9,5 +9,9 @@
 - [IntelliJ IDEA 2020.3激活破解教程](https://www.exception.site/essay/how-to-free-use-intellij-idea-2019-3)
 - 使用 sdkman 安装并维护多个版本的 JDK [#120](https://github.com/felix-cao/Blog/issues/120)  [Linux 下JDK1.8的安装](https://www.cnblogs.com/chy18883701161/p/12354039.html)
 - [IDEA右键新建时，选项竟然没有Java Class](https://www.jianshu.com/p/34cc2537a75b)
-- [window 下maven的按照](https://blog.csdn.net/huo920/article/details/82082403)
+- [window 下maven的安装](https://blog.csdn.net/huo920/article/details/82082403)
 - [Thinsboard 源码部署](https://segmentfault.com/a/1190000019755315)----[Netty MQTT Client Failed](https://github.com/thingsboard/thingsboard-gateway/issues/183)---[官方的](https://thingsboard.io/docs/user-guide/install/rhel/)
+
+# 技巧
+- Idea 安装插件 File -> Settings -> Plugins
+- 有用的插件 RestfulTookkit
