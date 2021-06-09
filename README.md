@@ -37,4 +37,4 @@ If you like, You can `star` this repo to keep tracking!
 - [Todesk 远程控制桌面工具](https://www.todesk.com/)
 - [语义化版本2.0.0](https://semver.org/lang/zh-CN/)
 - [Atlassian 破解](https://www.dqzboy.com/atlassian%e5%85%a8%e5%ae%b6%e6%a1%b6%e4%bb%a5%e5%8f%8a%e6%8f%92%e4%bb%b6%e7%a0%b4%e8%a7%a3%e8%af%a6%e7%bb%86%e6%95%99%e7%a8%8b)
-- [confluence与jira整合之统一用户管理](https://www.dqzboy.com/confluence%e4%b8%8ejira%e6%95%b4%e5%90%88%e4%b9%8b%e7%bb%9f%e4%b8%80%e7%94%a8%e6%88%b7%e7%ae%a1%e7%90%86)
+- [confluence与jira整合之统一用户管理](https://www.dqzboy.com/confluence%e4%b8%8ejira%e6%95%b4%e5%90%88%e4%b9%8b%e7%bb%9f%e4%b8%80%e7%94%a8%e6%88%b7%e7%ae%a1%e7%90%86) [Jira Download link address](https://www.atlassian.com/software/jira/update)
