@@ -1,0 +1,83 @@
+- hosts: weixin_H5
+  remote_user: admin
+  #sudo: yes
+  become: yes
+  become_user: root
+  vars:
+    dest_path: /home/wwwroot/weixin_H5
+    cache_path: /home/wwwroot/weixin_H5/runtime
+    repo_url: git@39.106.123.133:quma1.0/weixin_h5.git
+    config_path: /home/wwwroot/weixin_H5/application/database.php
+    app_config: /home/wwwroot/weixin_H5/application/config.php
+    config_dinner_db: /home/wwwroot/weixin_H5/application/config.dinner.db.php
+
+  tasks:
+
+    - name: Clean The Root Path
+      file:
+        path: '{{ dest_path }}'
+        state: absent
+
+    - name: Checkout repository on the host
+      git:
+        repo: '{{ repo_url }}'
+        dest: '{{ dest_path }}'
+        accept_hostkey: yes
+        clone: yes
+        key_file: /home/admin/.ssh/id_rsa
+        recursive: no
+        version: master
+
+    - name: Clear the cache
+      file:
+        path: '{{ cache_path }}'
+        state: absent
+
+    - name: Modify the DB config file
+      lineinfile:
+        dest: '{{config_path}}'
+        regexp: "{{ item.regexp }}"
+        line: "{{ item.line }}"
+      with_items:
+        - { regexp: "hostname", line: "    'hostname'        => 'pc-8vb5aw0he2lx718ni.rwlb.zhangbei.rds.aliyuncs.com',"}
+        - { regexp: "username", line: "    'username'        => 'quma_db',"}
+        - { regexp: "password", line: "    'password'        => 'renren2019Success',"}
+
+    - name: Modify the DB config file for dinner
+      lineinfile:
+        dest: '{{config_dinner_db}}'
+        regexp: "{{ item.regexp }}"
+        line: "{{ item.line }}"
+      with_items:
+        - { regexp: "hostname", line: "    'hostname'        => 'pc-8vb5aw0he2lx718ni.rwlb.zhangbei.rds.aliyuncs.com',"}
+        - { regexp: "username", line: "    'username'        => 'quma_db',"}
+        - { regexp: "password", line: "    'password'        => 'renren2019Success',"}
+
+    - name: Disable the errors message
+      lineinfile:
+        dest: '{{ app_config }}'
+        regexp: "{{ item.regexp }}"
+        line: "{{ item.line }}"
+      with_items:
+        - { regexp: "app_debug", line: "    'app_debug'              => false,"}
+        - { regexp: "exception_tmpl", line: "    'exception_tmpl'         => THINK_PATH . 'tpl' . DS . '404/404.html',"}
+
+    - name: Set the static and api resource
+      lineinfile:
+        dest: '{{app_config}}'
+        regexp: "{{ item.regexp }}"
+        line: "{{ item.line }}"
+      with_items:
+        - { regexp: "http://static.test1.qu-ma.cn", line: "define('__HOST__', 'http://static.qu-ma.cn');"}
+        - { regexp: "MEMBER_CARD_URL", line: "'MEMBER_CARD_URL' => 'http://api.qu-ma.cn/v2/'" }
+        - { regexp: "hostname", line: "'hostname'  => '47.92.3.209',"}
+
+    - name: Change the owner
+      file:
+        path: '{{dest_path}}'
+        owner: www
+        group: www
+        recurse: yes
+
+    #- name: Auto deploy the image to the application
+    #  shell: sudo /home/wwwroot/oos.sh
