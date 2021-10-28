@@ -10,3 +10,4 @@
 - [git](https://git-scm.com/)
 - [svn](https://www.visualsvn.com/downloads/)， 下载 `Apache Subversion command line tools`， 配置环境变量
 - [Kubernetes 教程](https://kuboard.cn/)
+- [Cygwin,   Get that Linux feeling - on Windows](https://www.cygwin.com/)
