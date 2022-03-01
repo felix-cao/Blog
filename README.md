@@ -15,13 +15,9 @@ If you like, You can `star` this repo to keep tracking!
 
 ## Table of contents
 
-- [JavaScript 深入理解篇](https://github.com/felix-cao/Blog/blob/master/JavaScript.md)
-- [简洁优雅自然可读的 ES6](https://github.com/felix-cao/Blog/blob/master/ES6.md)
-- [React Native 教程 writing](https://github.com/felix-cao/Blog/blob/master/react-native-tutorial.md)
-- [Front End Architecture 前端架构](https://github.com/felix-cao/Blog/blob/master/architecture-front-end.md)
+- [JavaScript Resource](https://github.com/felix-cao/Blog/blob/master/JavaScript.md)
 - [Java 基础](https://github.com/felix-cao/Blog/blob/master/java.md)
 - [数据库知识](https://github.com/felix-cao/Blog/blob/master/Database.md)
-- [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS)
 ## 算法 Algorithm
 - [算法可视化工具](http://algorithm-visualizer.org)
 
