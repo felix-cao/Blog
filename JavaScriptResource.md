@@ -9,3 +9,4 @@
 ## Reference
 - [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS)
 - [ES5 规范英文版](https://262.ecma-international.org/5.1/)
+- [ECMAScript® 2015 Language Specification(英文版)](https://262.ecma-international.org/6.0/) -- `ECMAScript 2015 规范` 即 `ES6规范` 
