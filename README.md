@@ -15,7 +15,7 @@ If you like, You can `star` this repo to keep tracking!
 
 ## Table of contents
 
-- [JavaScript Resource](https://github.com/felix-cao/Blog/blob/master/JavaScript.md)
+- [JavaScript Resource](https://github.com/felix-cao/Blog/blob/master/JavaScriptResource)
 - [Java 基础](https://github.com/felix-cao/Blog/blob/master/java.md)
 - [数据库知识](https://github.com/felix-cao/Blog/blob/master/Database.md)
 ## 算法 Algorithm
