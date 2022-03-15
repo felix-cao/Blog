@@ -6,6 +6,7 @@
 
 ## 变量
 - JavaScript 变量 [#152](https://github.com/felix-cao/Blog/issues/152)
+- JavaScript 数据类型分类 [#176](https://github.com/felix-cao/Blog/issues/176)
 - JavaScript 基本数据类型(Primitive Values) [#42](https://github.com/felix-cao/Blog/issues/42)
 - JavaScript 引用类型(Reference Values) [#41](https://github.com/felix-cao/Blog/issues/41)
 - JavaScript 自由变量(free variable) [#93](https://github.com/felix-cao/Blog/issues/93)
