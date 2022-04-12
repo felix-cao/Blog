@@ -16,7 +16,8 @@
     
 - [Sublime Text](http://www.sublimetext.com/)
 
-- [Typora](https://typora.io/#download), 不错的 markdown 编辑器
+- [Typora](https://typora.io/#download), 不错的 markdown 编辑器, 开始收费了，
+- [markText](https://github.com/marktext/marktext)
 
 - [Nodejs](https://nodejs.org/en/download/)
 - [Nodejs - window 7](https://nodejs.org/en/download/releases/)
