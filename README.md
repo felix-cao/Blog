@@ -37,3 +37,4 @@ If you like, You can `star` this repo to keep tracking!
 - [Todesk 远程控制桌面工具](https://www.todesk.com/)
 - [语义化版本2.0.0](https://semver.org/lang/zh-CN/)
 - [.sql大文件分割工具](https://philiplb.de/sqldumpsplitter3/)
+- [系统设计理论](https://github.com/donnemartin/system-design-primer)
